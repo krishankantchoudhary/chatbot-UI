@@ -1,8 +1,19 @@
-# React + Vite
+🛠️ Chatbot-UI
+🚀 A simple and interactive Chatbot Integration Testing tool that allows users to check chatbot integration, view setup instructions, and receive email instructions.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+📌 Features
+📩 Email Verification for Authentication – Secure user login with email verification.
+✅ Integration Steps – Provides script snippet for easy chatbot integration.
+✅ Send Instructions via Email – Developers can receive chatbot setup steps via email.
+✅ Success & Error Messages – Confetti animation for success, alerts for issues.
+✅ User-friendly UI – Responsive and easy to use with TailwindCSS styling.
+🎨 Responsive UI – Fully optimized for desktop and mobile devices.
+🛠 Admin Panel for Management – Control chatbot settings, user access, and analytics.
+🌍 Share Chatbot on Social Media – Easily distribute your chatbot across various platforms.
 
-Currently, two official plugins are available:
+📂 Tech Stack
+🔹 React.js – Component-based UI design.
+🔹 TailwindCSS – Modern and responsive styling.
+🔹 React Router – Navigation handling.
+🔹 Canvas-Confetti – Fun animations on success.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
